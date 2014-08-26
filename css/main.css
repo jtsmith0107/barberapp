@@ -4,19 +4,19 @@ h1 {
 }
 
 .stripeRed {
-  width: 100px; 
-  height: 100px; 
-  border: 1px solid #000; 
+  width: 200px; 
+  height: 40px; 
   background-color: red;
-  transform: skew(-20deg); 
-  -webkit-transform: skew(-20deg);
+  transform: skew(-25deg); 
+  -webkit-transform: skew(-25deg) rotate(-25deg);
+  margin-bottom: 20px;
 }
 
 .stripeBlue {
-  width: 100px; 
-  height: 100px; 
-  border: 1px solid #000; 
+  width: 200px; 
+  height: 40px; 
   background-color: blue;
-  transform: skew(-20deg); 
-  -webkit-transform: skew(-20deg);
+  transform: skew(-25deg); 
+  -webkit-transform: skew(-25deg) rotate(-25deg);
+  margin-bottom: 20px;
 }
