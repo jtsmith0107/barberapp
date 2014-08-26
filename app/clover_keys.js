@@ -1,6 +1,6 @@
 (function(){
-  BarberApp.baseURL =  '/v2/';
-  BarberApp.accessToken = '4562b485-7fc5-1404-abd8-fb8bbf3607b6';
-	BarberApp.merchantID = 'FJDBM10Y0QCBT';
+  BarberApp.baseURL =  'https://api.clover.com/v3/';
+  BarberApp.accessToken = '26686e97-c1a7-9294-cf8b-8c63ac66b393';
+	BarberApp.merchantID = 'V6ATA6FESWVXW';
 }();
   
